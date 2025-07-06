@@ -1,6 +1,38 @@
 # calculator_full
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
